@@ -1,3 +1,7 @@
+/**
+ * https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+ */
+
 function birthdayCakeCandles(candles: number[]): number {
   // Write your code here
   const maxNumberOfArray = Math.max(...candles)

@@ -1,3 +1,7 @@
+/**
+ * https://www.hackerrank.com/challenges/grading/problem
+ */
+
 function gradingStudents(grades: number[]): number[] {
   // Write your code here
   return grades.map((grade) => {
