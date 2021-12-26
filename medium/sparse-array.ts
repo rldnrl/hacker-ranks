@@ -2,7 +2,7 @@
  * https://www.hackerrank.com/challenges/sparse-arrays/problem
  */
 
- function matchingStrings(strings: string[], queries: string[]): number[] {
+function matchingStrings(strings: string[], queries: string[]): number[] {
   // Write your code here
   const result: number[] = [];
   const counts: { [key: string]: number } = {};
